@@ -5,3 +5,7 @@ This VagrantFile provides a Zabbix 3.2 server installed on Ubuntu Trusty.   Afte
 
 MySQL root password: zabbix
 
+Links
+-----
+- [PostgreSQL monitoring for Zabbix](http://cavaliercoder.com/libzbxpgsql/)
+- [How To Install Zabbix Agent on Ubuntu 16.04/14.04 and Debian 9/8/7](https://tecadmin.net/install-zabbix-agent-on-ubuntu-and-debian/#)
